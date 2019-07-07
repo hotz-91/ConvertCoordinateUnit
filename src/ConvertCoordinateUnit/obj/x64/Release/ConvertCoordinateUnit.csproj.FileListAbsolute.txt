@@ -1,0 +1,9 @@
+C:\PROJECT\座標変換ツール\src\ConvertCoordinateUnit\ConvertCoordinateUnit\bin\x64\Release\ConvertCoordinateUnit.exe.config
+C:\PROJECT\座標変換ツール\src\ConvertCoordinateUnit\ConvertCoordinateUnit\bin\x64\Release\ConvertCoordinateUnit.exe
+C:\PROJECT\座標変換ツール\src\ConvertCoordinateUnit\ConvertCoordinateUnit\obj\x64\Release\ConvertCoordinateUnit.csproj.CoreCompileInputs.cache
+C:\PROJECT\座標変換ツール\src\ConvertCoordinateUnit\ConvertCoordinateUnit\obj\x64\Release\ConvertCoordinateUnit.exe
+C:\PROJECT\座標変換ツール\src\src\ConvertCoordinateUnit\bin\x64\Release\ConvertCoordinateUnit.exe.config
+C:\PROJECT\座標変換ツール\src\src\ConvertCoordinateUnit\bin\x64\Release\ConvertCoordinateUnit.exe
+C:\PROJECT\座標変換ツール\src\src\ConvertCoordinateUnit\obj\x64\Release\ConvertCoordinateUnit.csprojAssemblyReference.cache
+C:\PROJECT\座標変換ツール\src\src\ConvertCoordinateUnit\obj\x64\Release\ConvertCoordinateUnit.csproj.CoreCompileInputs.cache
+C:\PROJECT\座標変換ツール\src\src\ConvertCoordinateUnit\obj\x64\Release\ConvertCoordinateUnit.exe
