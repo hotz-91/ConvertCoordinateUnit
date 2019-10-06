@@ -5,17 +5,17 @@
         /// <summary>
         /// 地名
         /// </summary>
-        public readonly string Place;
+        public string Place { get; private set; }
 
         /// <summary>
         /// 緯度
         /// </summary>
-        public readonly string Latitude;
+        public string Latitude { get; private set; }
 
         /// <summary>
         /// 経度
         /// </summary>
-        public readonly string Longitude;
+        public string Longitude { get; private set; }
 
         /// <summary>
         /// コンストラクタ

@@ -5,22 +5,22 @@
         /// <summary>
         /// 座標リストファイルパス
         /// </summary>
-        public readonly string CoordinateListFilePath;
+        public string CoordinateListFilePath { get; private set; }
 
         /// <summary>
         /// 変換後座標リストファイルの出力先フォルダパス
         /// </summary>
-        public readonly string OutputFolderPath;
+        public string ExportFolderPath { get; private set; }
 
         /// <summary>
         /// コンストラクタ
         /// </summary>
         /// <param name="coordinateListFilePath">座標リストファイルパス</param>
-        /// <param name="outputFolderPath">変換後座標リストファイルの出力先フォルダパス</param>
-        public SettingFileData(string coordinateListFilePath, string outputFolderPath)
+        /// <param name="exportFolderPath">変換後座標リストファイルの出力先フォルダパス</param>
+        public SettingFileData(string coordinateListFilePath, string exportFolderPath)
         {
             CoordinateListFilePath = coordinateListFilePath;
-            OutputFolderPath = outputFolderPath;
+            ExportFolderPath = exportFolderPath;
         }
     }
 }

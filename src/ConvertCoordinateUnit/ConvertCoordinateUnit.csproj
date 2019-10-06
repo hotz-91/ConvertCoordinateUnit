@@ -66,15 +66,18 @@
     <Compile Include="Constants.cs" />
     <Compile Include="Data\CoordinateListFileData.cs" />
     <Compile Include="Data\SettingFileData.cs" />
-    <Compile Include="Logger.cs" />
+    <Compile Include="Models\InputContainer.cs" />
+    <Compile Include="Models\Logger.cs" />
+    <Compile Include="Models\OutputContainer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ListFacade.cs" />
+    <Compile Include="Utilities\EunmNameAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
